@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Full Stack Software Engineer working for Vulse. We have created an AI-powered platform with the aim of assisting individuals enhance their personal brand. 
+I'm currently a Full Stack Software Engineer working for Direct Business Solutions.
 
 
 ## 🌐 Socials:

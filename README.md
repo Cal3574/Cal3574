@@ -40,7 +40,6 @@ I'm a **Full Stack Software Engineer** at Direct Business Solutions, where I des
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=cal3574&theme=radical&hide_border=false&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cal3574&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cal3574&theme=radical&hide_border=false&layout=compact)
 

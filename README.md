@@ -1,8 +1,6 @@
 # 👋 Hey, I’m Callum Hall
 
-I'm a **Full Stack Software Engineer** at Direct Business Solutions, where I design and build scalable web applications using modern technologies across the stack. I'm passionate about clean architecture, developer experience, and shipping features that matter.
-
-I'm currently diving deeper into **Golang**, **distributed systems**, and **cloud infrastructure** (AWS + Azure), while still loving everything about **TypeScript**, **Node.js**, **React**, and **Vue 3**.
+I'm a **Full Stack Software Engineer** at Direct Business Solutions, where I design and build scalable web applications using modern technologies across the stack. I care deeply about clean architecture, maintainable codebases, and building systems that solve real-world problems.
 
 ---
 
@@ -23,7 +21,6 @@ I'm currently diving deeper into **Golang**, **distributed systems**, and **clou
 **Backend & APIs:**
 
 ![Express.js](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -32,8 +29,6 @@ I'm currently diving deeper into **Golang**, **distributed systems**, and **clou
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Tooling & Testing:**
 
